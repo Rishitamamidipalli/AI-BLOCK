@@ -1,0 +1,65 @@
+BLOCK-0
+Previous hash:
+  
+Current hash:
+  1e7f352067a7bd082ea24a32aff35a974fc3325fc4e17fe1d70ef157470a5177
+Genisis block
+
+BLOCK-1
+Previous hash:
+  1e7f352067a7bd082ea24a32aff35a974fc3325fc4e17fe1d70ef157470a5177
+Current hash:
+  e4c544c6b8da574dc285eb1689dadf574c00a8d3194449a0a9a9b68e74c4f036
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Breathing    | Fever | Dry Cough | Sore throat | Headache | Fatigue  | Gastrointes… | Abroad      | Contact with | Attended    | Visited      | timestamp   | has Covid    |
+| Problem      |       |           |             |          |          |              | travel      | COVID        | Large       | Public       |             |              |
+|              |       |           |             |          |          |              |             | Patient      | Gathering   | Exposed      |             |              |
+|              |       |           |             |          |          |              |             |              |             | Places       |             |              |
+| yes          | no    | no        | no          | no       | no       | no           | no          | no           | no          | no           | 03:12:12 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 29/11/2023  | no Covid     |
+| no           | no    | no        | no          | no       | no       | no           | no          | no           | no          | no           | 03:12:35 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 29/11/2023  | no Covid     |
+| yes          | yes   | no        | no          | no       | no       | no           | no          | no           | no          | no           | 03:24:55 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 29/11/2023  | no Covid     |
+| no           | no    | no        | no          | no       | no       | no           | no          | no           | no          | no           | 03:29:28 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 29/11/2023  | no Covid     |
+| yes          | no    | no        | no          | no       | no       | no           | no          | no           | no          | no           | 06:19:20 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 02/12/2023  | no Covid     |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+BLOCK-2
+Previous hash:
+  e4c544c6b8da574dc285eb1689dadf574c00a8d3194449a0a9a9b68e74c4f036
+Current hash:
+  c49acfc7b7a8e5278638ec15cf31c9609c2ec50031632cd18f9e0a428b5180e0
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Breathing    | Fever | Dry Cough | Sore throat | Headache | Fatigue  | Gastrointes… | Abroad      | Contact with | Attended    | Visited      | timestamp   | has Covid    |
+| Problem      |       |           |             |          |          |              | travel      | COVID        | Large       | Public       |             |              |
+|              |       |           |             |          |          |              |             | Patient      | Gathering   | Exposed      |             |              |
+|              |       |           |             |          |          |              |             |              |             | Places       |             |              |
+| no           | no    | no        | no          | no       | yes      | yes          | no          | no           | no          | no           | 06:24:01 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 02/12/2023  | no Covid     |
+| no           | no    | no        | no          | yes      | no       | no           | no          | no           | no          | no           | 06:25:27 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 02/12/2023  | no Covid     |
+| yes          | no    | no        | yes         | no       | yes      | no           | yes         | no           | no          | no           | 04:50:44 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 26/06/2024  | Covid        |
+| no           | no    | no        | no          | no       | no       | no           | no          | no           | no          | no           | 04:56:08 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 26/06/2024  | no Covid     |
+| no           | no    | no        | no          | no       | no       | no           | no          | no           | no          | no           | 04:56:31 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 26/06/2024  | no Covid     |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+BLOCK-3
+Previous hash:
+  c49acfc7b7a8e5278638ec15cf31c9609c2ec50031632cd18f9e0a428b5180e0
+Current hash:
+  159e5c8c8fd2e1347d109db6eae206e98ac1e785399f46aa09a5abb849292135
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Breathing    | Fever | Dry Cough | Sore throat | Headache | Fatigue  | Gastrointes… | Abroad      | Contact with | Attended    | Visited      | timestamp   | has Covid    |
+| Problem      |       |           |             |          |          |              | travel      | COVID        | Large       | Public       |             |              |
+|              |       |           |             |          |          |              |             | Patient      | Gathering   | Exposed      |             |              |
+|              |       |           |             |          |          |              |             |              |             | Places       |             |              |
+| no           | no    | no        | no          | no       | no       | no           | no          | no           | no          | no           | 04:59:49 PM | Patient has  |
+|              |       |           |             |          |          |              |             |              |             |              | 26/06/2024  | no Covid     |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
