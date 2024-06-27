@@ -6,7 +6,7 @@ This project is implementation of research paper "AIBLOCK_Blockchain_based_Light
 Initially, our project was deployed on the serverless platform GCP. However, due to cost considerations, we have switched to using non-serverless functions.
 
 # Technologies used in this project
-Initially when we get patients data and check whether that patient having covid or not . This is done by using ML model randomforests. This model is trained on the 'Covid Dataset.csv', available for download from Kaggle.
+Initially when we get patients data and check whether that patient having covid or not . This is done by using ML model randomforests. This model is trained on the 'Covid Dataset.csv', available for download from Kaggle. Out of the 20 columns of COVID characteristics, we have selected only the 10 columns that show a high correlation with COVID infection.Here they go
 
 Now this data along with the results is stored in database using Blockchain technology to ensure data integrety.
 
