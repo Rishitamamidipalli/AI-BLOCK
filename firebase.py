@@ -3,7 +3,7 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 import hashlib
 
-cred = credentials.Certificate('blockchain-3b28c-firebase-adminsdk-rc0w2-2bfbb5ffbf.json')
+cred = credentials.Certificate('blockchain-3b28c-79cdd134084d.json')
 
 app = firebase_admin.initialize_app(cred)
 
