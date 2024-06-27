@@ -27,7 +27,7 @@ We can also check whether the data inside our database is changed or not by comp
 
 This project IOT devices,ML algorithem is used to precisely detect COVID from patient data, secure patient data with blockchain, and optimize resources with serverless computing thus AIBLOCK ensured an effective and secure solution for managing patient data during the pandemic
 
-According to paper data received by the sensor of the IoT layer are sent to the gateway node, and then the gateway node sends the data to the serverless data center. Using blockchain in a serverless Node, the results from the ML model and the data are recorded in blocks. These blocks are stored at both the server database and the user gateway to ensure data integrity
+According to paper data received by the sensor of the IoT layer are sent to the gateway node, and then the gateway node sends the data to the serverless data center. In Serverless Datacenter Layer our ML model is deployed .Using blockchain in a serverless Node, the results from the ML model and the data are recorded in blocks. These blocks are stored at both the server database and the user gateway to ensure data integrity
 ![Screenshot 2024-06-27 234920](https://github.com/Rishitamamidipalli/AI-BLOCK/assets/123208162/c0ab0de4-9950-4690-a4ab-7f807814d7a1)
 
 
