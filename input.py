@@ -43,5 +43,5 @@ timestamp_str = time.strftime("%I:%M:%S %p %d/%m/%Y", time_struct)
 data=dict(zip(ip_columns,user_input_data))
 data["timestamp"]=timestamp_str
 data["has Covid"]=result
-print(time_struct,timestamp_str,data)
+
 set_data(data)
