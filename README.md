@@ -7,6 +7,8 @@ Initially, our project was deployed on the serverless platform GCP. However, due
 
 # Technologies used in this project
 Initially when we get patients data and check whether that patient having covid or not . This is done by using ML model randomforests. This model is trained on the 'Covid Dataset.csv', available for download from Kaggle. Out of the 20 columns of COVID characteristics, we have selected only the 10 columns that show a high correlation with COVID infection.Here they go
+![Screenshot 2024-06-27 233413](https://github.com/Rishitamamidipalli/AI-BLOCK/assets/123208162/0d23f922-5b4f-4373-8b06-a534259efeae)
+
 
 Now this data along with the results is stored in database using Blockchain technology to ensure data integrety.
 
