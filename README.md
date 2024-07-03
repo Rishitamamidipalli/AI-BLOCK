@@ -1,7 +1,13 @@
 # AI BLOCK
 AI BLOCK is a framework which combines Machine Learning, Serverless Computing, and Blockchain Technology
+# Table of Contents 
+-[About this project](#About-this-project)
 
-# About this project
+-[Technologies used in this project](#Technologies-used-in-this-project)
+
+-[How Blockchain technology used in this project](#How-Blockchain-technology-used-in-this-project)
+
+### About this project
 This project is implementation of research paper "AIBLOCK_Blockchain_based_Lightweight_Framework_for_Serverless_Computing_using_AI"
 Initially, our project was deployed on the serverless platform GCP. However, due to cost considerations, we have switched to using non-serverless functions.
 
@@ -9,7 +15,7 @@ This is firestore database where patients data is collected and stored
 ![Screenshot 2024-06-27 234321](https://github.com/Rishitamamidipalli/AI-BLOCK/assets/123208162/72d55285-9016-49e0-bfb6-a9d50f20c380)
 
 
-# Technologies used in this project
+### Technologies used in this project
 Initially when we get patients data and check whether that patient having covid or not . This is done by using ML model randomforests. This model is trained on the 'Covid Dataset.csv', available for download from Kaggle. Out of the 20 columns of COVID characteristics, we have selected only the 10 columns that show a high correlation with COVID infection.Here they go
 ![Screenshot 2024-06-27 233413](https://github.com/Rishitamamidipalli/AI-BLOCK/assets/123208162/0d23f922-5b4f-4373-8b06-a534259efeae)
 
@@ -18,7 +24,7 @@ Now this data along with the results is stored in database using Blockchain tech
 
 During the COVID-19 pandemic, usage can vary significantly, with peak times and periods of lower activity. so we have opted for serverless platform Google Cloud platform as the provider dynamically manages the allocation of machine resources
 
-# How Blockchain technology used in this project
+### How Blockchain technology used in this project
 In this project, we have created a blockchain where each block consists of data for five individuals.
 
 We have used Python libraries to calculate required hash values and we have stored previous hash and current hash along with data in every block
